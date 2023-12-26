@@ -58,7 +58,7 @@ flashgen -anki -deck "go" -tags "go::functions go::concurrency" go-notes.md go-f
 
 - [x] Base functionality
 - [ ] Support for tags
-- [ ] Automatically adding
+- [ ] Automatically adding notes to Anki
 
 ## FAQ
 
